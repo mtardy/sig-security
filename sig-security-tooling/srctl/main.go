@@ -8,7 +8,7 @@ import (
 	"regexp"
 	"strings"
 
-	"k8s.io/kubernetes/sig-security/srctl/state"
+	"k8s.io/sig-security/sig-security-tooling/srctl/state"
 )
 
 const (

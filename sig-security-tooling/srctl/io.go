@@ -9,7 +9,7 @@ import (
 	"strings"
 
 	"golang.org/x/term"
-	"k8s.io/kubernetes/sig-security/srctl/state"
+	"k8s.io/sig-security/sig-security-tooling/srctl/state"
 )
 
 const (
